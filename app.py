@@ -6,7 +6,7 @@ import streamlit as st
 import google.generativeai as genai
 from google.api_core import exceptions as google_exceptions
 st.set_page_config(page_title='AI Email Assistant', page_icon='✉️', layout='centered', initial_sidebar_state='expanded')
-MODEL_NAME = 'gemini-2.0-flash'
+MODEL_NAME = 'gemini-3.6-flash'
 MAX_INPUT_LEN = 3000
 
 def get_api_key() -> str | None:
