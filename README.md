@@ -167,3 +167,11 @@ top of `app.py` so it stays easy to test the same way.
 ## License
 
 Free to use and modify for personal or portfolio projects.
+
+---
+
+## Deployment
+
+Link: https://ai-email-assistant-03.streamlit.app/
+
+---
